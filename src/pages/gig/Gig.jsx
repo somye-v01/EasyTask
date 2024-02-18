@@ -228,7 +228,8 @@ function Gig() {
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
-                <img src="/img/like.png" alt="" />
+                <img src="src/public/img/like.png" alt="" />
+                <img src="" alt="" />
                 <span>Yes</span>
                 <img src="/img/dislike.png" alt="" />
                 <span>No</span>
