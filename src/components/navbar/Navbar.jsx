@@ -16,9 +16,9 @@ const Navbar = () => {
     };
   }, []);
 
-  useEffect(() => {
-    console.log(open);
-  }, [scrolled]);
+  // useEffect(() => {
+  //   console.log(open);
+  // }, [scrolled,open]);
 
   const currUser = {
     id: 1,
