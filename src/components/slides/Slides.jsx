@@ -1,7 +1,7 @@
 import React from "react";
 import "./Slides.scss";
 import Slider from "infinite-react-carousel";
-import CatCard from "../catCard/catCard";
+import CatCard from "../catCard/CatCard";
 import { cards } from "../../data";
 const Slides = ({ children, slidesToShow, arrowsScroll }) => {
   return (

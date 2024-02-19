@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./navbar.scss";
 import { useLocation } from "react-router-dom";
 import { Link } from "react-router-dom";
+
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
