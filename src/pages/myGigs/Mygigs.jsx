@@ -40,7 +40,7 @@ function MyGigs() {
             <td>13.<sup>99</sup></td>
             <td>34</td>
             <td>
-              <img className="delete" src="src/public/img/delete.png" alt="" />
+              <img className="delete" src="/delete.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -55,7 +55,7 @@ function MyGigs() {
             <td>120.<sup>99</sup></td>
             <td>41</td>
             <td>
-              <img className="delete" src="src/public/img/delete.png" alt="" />
+              <img className="delete" src="/delete.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -70,7 +70,7 @@ function MyGigs() {
             <td>79.<sup>99</sup></td>
             <td>55</td>
             <td>
-              <img className="delete" src="src/public/img/delete.png" alt="" />
+              <img className="delete" src="/delete.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -85,7 +85,7 @@ function MyGigs() {
             <td>119.<sup>99</sup></td>
             <td>29</td>
             <td>
-              <img className="delete" src="src/public/img/delete.png" alt="" />
+              <img className="delete" src="/delete.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -100,7 +100,7 @@ function MyGigs() {
             <td>59.<sup>99</sup></td>
             <td>34</td>
             <td>
-              <img className="delete" src="src/public/img/delete.png" alt="" />
+              <img className="delete" src="/delete.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -115,7 +115,7 @@ function MyGigs() {
             <td>110.<sup>99</sup></td>
             <td>16</td>
             <td>
-              <img className="delete" src="src/public/img/delete.png" alt="" />
+              <img className="delete" src="/delete.png" alt="" />
             </td>
           </tr>
         </table>

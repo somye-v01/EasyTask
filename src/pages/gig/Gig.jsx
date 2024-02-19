@@ -17,11 +17,11 @@ function Gig() {
             />
             <span>Anna Bell</span>
             <div className="stars">
-              <img src="src/public/img/star.png" alt="" />
-              <img src="src/public/img/star.png" alt="" />
-              <img src="src/public/img/star.png" alt="" />
-              <img src="src/public/img/star.png" alt="" />
-              <img src="src/public/img/star.png" alt="" />
+              <img src="/star.png" alt="" />
+              <img src="/star.png" alt="" />
+              <img src="/star.png" alt="" />
+              <img src="/star.png" alt="" />
+              <img src="/star.png" alt="" />
               <span>5</span>
             </div>
           </div>
@@ -65,11 +65,11 @@ function Gig() {
               <div className="info">
                 <span>Anna Bell</span>
                 <div className="stars">
-                  <img src="src/public/img/star.png" alt="" />
-                  <img src="src/public/img/star.png" alt="" />
-                  <img src="src/public/img/star.png" alt="" />
-                  <img src="src/public/img/star.png" alt="" />
-                  <img src="src/public/img/star.png" alt="" />
+                  <img src="/star.png" alt="" />
+                  <img src="/star.png" alt="" />
+                  <img src="/star.png" alt="" />
+                  <img src="/star.png" alt="" />
+                  <img src="/star.png" alt="" />
                   <span>5</span>
                 </div>
                 <button>Contact Me</button>
@@ -128,11 +128,11 @@ function Gig() {
                 </div>
               </div>
               <div className="stars">
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
                 <span>5</span>
               </div>
               <p>
@@ -212,11 +212,11 @@ function Gig() {
                 </div>
               </div>
               <div className="stars">
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
-                <img src="src/public/img/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
                 <span>5</span>
               </div>
               <p>
@@ -228,7 +228,7 @@ function Gig() {
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
-                <img src="src/public/img/like.png" alt="" />
+                <img src="/like.png" alt="" />
                 <img src="" alt="" />
                 <span>Yes</span>
                 <img src="/img/dislike.png" alt="" />

@@ -35,7 +35,7 @@ const Orders = () => {
             <td>59.<sup>99</sup></td>
             <td>Maria Anders</td>
             <td>
-              <img className="message" src="src/public/img/message.png" alt="" />
+              <img className="message" src="/message.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -50,7 +50,7 @@ const Orders = () => {
             <td>79.<sup>99</sup></td>
             <td>Francisco Chang</td>
             <td>
-              <img className="message" src="src/public/img/message.png" alt="" />
+              <img className="message" src="/message.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -65,7 +65,7 @@ const Orders = () => {
             <td>110.<sup>99</sup></td>
             <td>Roland Mendel</td>
             <td>
-              <img className="message" src="src/public/img/message.png" alt="" />
+              <img className="message" src="/message.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -80,7 +80,7 @@ const Orders = () => {
             <td>39.<sup>99</sup></td>
             <td>Helen Bennett</td>
             <td>
-              <img className="message" src="src/public/img/message.png" alt="" />
+              <img className="message" src="/message.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -95,7 +95,7 @@ const Orders = () => {
             <td>119.<sup>99</sup></td>
             <td>Yoshi Tannamuri</td>
             <td>
-              <img className="message" src="src/public/img/message.png" alt="" />
+              <img className="message" src="/message.png" alt="" />
             </td>
           </tr>
           <tr>
@@ -110,7 +110,7 @@ const Orders = () => {
             <td>49.<sup>99</sup></td>
             <td>Giovanni Rovelli</td>
             <td>
-              <img className="message" src="src/public/img/message.png" alt="" />
+              <img className="message" src="/message.png" alt="" />
             </td>
           </tr>
         </table>
