@@ -145,9 +145,9 @@ function Gig() {
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
-                <img src="/img/like.png" alt="" />
+                <img src="/like.png" alt="" />
                 <span>Yes</span>
-                <img src="/img/dislike.png" alt="" />
+                <img src="/dislike.png" alt="" />
                 <span>No</span>
               </div>
             </div>
@@ -171,11 +171,11 @@ function Gig() {
                 </div>
               </div>
               <div className="stars">
-                <img src="/img/star.png" alt="" />
-                <img src="/img/star.png" alt="" />
-                <img src="/img/star.png" alt="" />
-                <img src="/img/star.png" alt="" />
-                <img src="/img/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
+                <img src="/star.png" alt="" />
                 <span>5</span>
               </div>
               <p>
@@ -186,9 +186,9 @@ function Gig() {
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
-                <img src="/img/like.png" alt="" />
+                <img src="/like.png" alt="" />
                 <span>Yes</span>
-                <img src="/img/dislike.png" alt="" />
+                <img src="/dislike.png" alt="" />
                 <span>No</span>
               </div>
             </div>
@@ -229,9 +229,8 @@ function Gig() {
               <div className="helpful">
                 <span>Helpful?</span>
                 <img src="/like.png" alt="" />
-                <img src="" alt="" />
                 <span>Yes</span>
-                <img src="/img/dislike.png" alt="" />
+                <img src="/dislike.png" alt="" />
                 <span>No</span>
               </div>
             </div>
@@ -248,29 +247,29 @@ function Gig() {
           </p>
           <div className="details">
             <div className="item">
-              <img src="/img/clock.png" alt="" />
+              <img src="/clock.png" alt="" />
               <span>2 Days Delivery</span>
             </div>
             <div className="item">
-              <img src="/img/recycle.png" alt="" />
+              <img src="/recycle.png" alt="" />
               <span>3 Revisions</span>
             </div>
           </div>
           <div className="features">
             <div className="item">
-              <img src="/img/greencheck.png" alt="" />
+              <img src="/greencheck.png" alt="" />
               <span>Prompt writing</span>
             </div>
             <div className="item">
-              <img src="/img/greencheck.png" alt="" />
+              <img src="/greencheck.png" alt="" />
               <span>Artwork delivery</span>
             </div>
             <div className="item">
-              <img src="/img/greencheck.png" alt="" />
+              <img src="/greencheck.png" alt="" />
               <span>Image upscaling</span>
             </div>
             <div className="item">
-              <img src="/img/greencheck.png" alt="" />
+              <img src="/greencheck.png" alt="" />
               <span>Additional design</span>
             </div>
           </div>
