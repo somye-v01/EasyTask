@@ -3,6 +3,7 @@ import Featured from '../../components/featured/Featured'
 import Trusted from '../../components/trusted/Trusted'
 import Slides from '../../components/slides/Slides'
 import './Home.scss'
+import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <div className="home">
@@ -57,14 +58,19 @@ const Home = () => {
         <div className="container">
           <h1>Explore the marketplace</h1>
           <div className="items">
+          <Link to="/gigs?cat=design">
             <div className="item">
+            
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/graphics-design.d32a2f8.svg"
                 alt=""
               />
               <div className="line"></div>
               <span>Graphics & Design</span>
+              
             </div>
+            </Link>
+            <Link to="/gigs?cat=marketing">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/online-marketing.74e221b.svg"
@@ -74,6 +80,8 @@ const Home = () => {
 
               <span>Digital Marketing</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=writing">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/writing-translation.32ebe2e.svg"
@@ -82,6 +90,8 @@ const Home = () => {
               <div className="line"></div>
               <span>Writing & Translation</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=animation">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/video-animation.f0d9d71.svg"
@@ -90,6 +100,8 @@ const Home = () => {
               <div className="line"></div>
               <span>Video & Animation</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=music">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/music-audio.320af20.svg"
@@ -98,6 +110,8 @@ const Home = () => {
               <div className="line"></div>
               <span>Music & Audio</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=web">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/programming.9362366.svg"
@@ -106,6 +120,8 @@ const Home = () => {
               <div className="line"></div>
               <span>Programming & Tech</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=business">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/business.bbdf319.svg"
@@ -114,6 +130,8 @@ const Home = () => {
               <div className="line"></div>
               <span>Business</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=lifestyle">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/lifestyle.745b575.svg"
@@ -122,6 +140,8 @@ const Home = () => {
               <div className="line"></div>
               <span>Lifestyle</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=web">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/data.718910f.svg"
@@ -130,6 +150,8 @@ const Home = () => {
               <div className="line"></div>
               <span>Data</span>
             </div>
+            </Link>
+            <Link to="/gigs?cat=design">
             <div className="item">
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/photography.01cf943.svg"
@@ -138,6 +160,7 @@ const Home = () => {
               <div className="line"></div>
               <span>Photography</span>
             </div>
+          </Link>
           </div>
         </div>
       </div>

@@ -27,7 +27,7 @@ const Messages = () => {
             <th>Date</th>
             <th>Action</th>
           </tr>
-          <tr className="active">
+          <tr id="row1" className="active">
             <td>Charley Sharp</td>
             <td>
               <Link to="/message/123" className="link">
@@ -39,7 +39,7 @@ const Messages = () => {
               <button>Mark as Read</button>
             </td>
           </tr>
-          <tr className="active">
+          <tr id="row2" className="active">
             <td>John Doe</td>
 
             <td>
