@@ -22,6 +22,7 @@ function Gigs() {
         )
         .then((res) => {
           return res.data;
+          console.log(res.data)
         }),
   });
 
@@ -47,10 +48,10 @@ function Gigs() {
   return (
     <div className="gigs">
       <div className="container">
-        <span className="breadcrumbs">Fiverr  Graphics & Design </span>
+        <span className="breadcrumbs">EasyTask  Graphics & Design </span>
         <h1>{getCategoryHeading()}</h1>
         <p>
-          Explore the boundaries of art and technology with Fiverr's {getCategoryHeading().toLowerCase()}.
+          Explore the boundaries of art and technology with EasyTask's {getCategoryHeading().toLowerCase()}.
         </p>
         <div className="menu">
           <div className="left">

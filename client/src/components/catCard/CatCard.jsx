@@ -1,10 +1,13 @@
 import React from "react";
 import "./catCard.scss";
 import Slider from "infinite-react-carousel";
-
+import { useEffect } from "react";
 import { Link } from "react-router-dom";
 
 const CatCard = ( {item} ) => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div>
     <Link to = "/gigs?cat=design">

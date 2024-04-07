@@ -39,12 +39,13 @@ function Navbar() {
       <div className="container">
         <div className="logo">
           <Link className="link" to="/">
-            <span className="text">fiverr</span>
+            {/* <span className="text">EasyTask</span> */}
+            <img src = "/easytask.png" height={70} />
           </Link>
-          <span className="dot">.</span>
+          {/* <span className="dot">.</span> */}
         </div>
         <div className="links">
-          <span>Fiverr Business</span>
+          <span>EasyTask Business</span>
           <span>Explore</span>
           <span>English</span>
           {!currentUser?.isSeller && <span>Become a Seller</span>}
